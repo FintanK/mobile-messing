@@ -125,7 +125,7 @@
                     <h4>This is the title of a blog post</h4>
                     <p class="meta"><a href="">
                             <time datetime="2009-06-29T23:31:45+01:00">June 29th 2009</time>
-                        </a> by <a href="#">Fintan Kearney</a> - <a href="#comments">3 comments</a></p>
+                        </a> by <a href="#">Author name</a> - <a href="#comments">3 comments</a></p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod tellus eu orci imperdiet
                         nec rutrum lacus blandit. Cras enim nibh, sodales ultricies elementum vel, fermentum id tellus.
                         Proin metus odio, ultricies eu pharetra dictum, laoreet id odio <a href="">Full Article</a></p>
@@ -136,7 +136,7 @@
                     <h4>This is the title of a blog post</h4>
                     <p class="meta"><a href="">
                             <time datetime="2009-06-29T23:31:45+01:00">June 29th 2009</time>
-                        </a> by <a href="#">Fintan Kearney</a> - <a href="#comments">3 comments</a></p>
+                        </a> by <a href="#">Author name</a> - <a href="#comments">3 comments</a></p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod tellus eu orci imperdiet
                         nec rutrum lacus blandit. Cras enim nibh, sodales ultricies elementum vel, fermentum id tellus.
                         Proin metus odio, ultricies eu pharetra dictum, laoreet id odio <a href="">Full Article</a></p>
@@ -155,7 +155,7 @@
 
                 <p class="meta"><a href="">
                         <time datetime="2009-06-29T23:31:45+01:00">June 29th 2009</time>
-                    </a> by <a href="#">Fintan Kearney</a> - <a href="#comments">3 comments</a></p>
+                    </a> by <a href="#">Author name</a> - <a href="#comments">3 comments</a></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod tellus eu orci imperdiet nec
                     rutrum lacus blandit. Cras enim nibh, sodales ultricies elementum vel, fermentum id tellus. Proin
                     metus odio, ultricies eu pharetra dictum, laoreet id odio <a href="">Full Article</a></p>
@@ -168,7 +168,7 @@
 
                 <p class="meta"><a href="">
                         <time datetime="2009-06-29T23:31:45+01:00">June 29th 2009</time>
-                    </a> by <a href="#">Fintan Kearney</a> - <a href="#comments">3 comments</a></p>
+                    </a> by <a href="#">Author name</a> - <a href="#comments">3 comments</a></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod tellus eu orci imperdiet nec
                     rutrum lacus blandit. Cras enim nibh, sodales ultricies elementum vel, fermentum id tellus. Proin
                     metus odio, ultricies eu pharetra dictum, laoreet id odio <a href="">Full Article</a></p>
