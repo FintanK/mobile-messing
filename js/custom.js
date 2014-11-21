@@ -1,13 +1,6 @@
-/*  Basic JavaScript */
-
-
 /*  JQUERY   */
 $(document).ready(function(){
-
-   $('section').css("min-height",$(window).height()+"px");
-
-   //alert($(window).height());
-   
+   $('section').css("min-height", $(window).height() + "px");
    $('#mobile-nav-btn').click(function() {
 
 	if($('#page-wrapper').hasClass("slide")) {
@@ -16,7 +9,6 @@ $(document).ready(function(){
 	$('#page-wrapper').addClass("slide");
         $('#page-wrapper').focus();
 	}
-	   
    });
 
    $("#nav-menu li").click(function() {
@@ -39,8 +31,6 @@ $(document).ready(function(){
         $('section').hide();
 	$('#blog').fadeIn('slow');  
    });
-   
-  
 });
 
 
